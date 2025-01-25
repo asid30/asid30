@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying at **Universitas Lampung**
 
-- 🌱 I’m currently learning **Codeigniter 4, PHP and Javascript**
+- 🌱 I’m currently learning **Codeigniter 4, PHP, React, NextJs and React Native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
