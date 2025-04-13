@@ -48,7 +48,7 @@
     <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxhfRM_njI7Pu32CmBLMdmnnzF6MdNHw4MJwlr.tSWLA2EJBQdZh0p3nNDzGvX2F6NoIc9ZSQ9xJqsGEg5bouOnA-&format=source" alt="photoshop" width="40" height="40"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://thumbs.dreamstime.com/b/java-logo-java-logo-white-background-vector-format-available-127575473.jpg" alt="java" width="40" height="40"/>
+    <img src="https://static-00.iconduck.com/assets.00/java-icon-2048x2048-3pfathb3.png" alt="java" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://www.shareicon.net/data/512x512/2016/08/01/640321_development_512x512.png" alt="mysql" width="40" height="40"/>
