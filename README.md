@@ -54,7 +54,7 @@
     <img src="https://www.shareicon.net/data/512x512/2016/08/01/640321_development_512x512.png" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+    <img src="https://marcbruederlin.gallerycdn.vsassets.io/extensions/marcbruederlin/next-icons/0.1.0/1723747598319/Microsoft.VisualStudio.Services.Icons.Default" alt="nextjs" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
