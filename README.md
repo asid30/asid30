@@ -60,7 +60,7 @@
     <img src="https://static-00.iconduck.com/assets.00/nodejs-icon-2048x2048-rueyo8fw.png" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    <img src="https://i.redd.it/c6h7rok9c2v31.jpg" alt="pandas" width="50" height="40"/>
   </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
