@@ -19,7 +19,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="display:flex; flex-wrap: wrap; gap:10px; background-color:white; padding:10px; border-radius:8px;">
 <p align="left" style="background-color: white; padding: 10px; border-radius: 8px;">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="background-color:white; alt="bootstrap" width="40" height="40"/>
@@ -81,7 +80,6 @@
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   </a>
 </p>
-</div>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asid30&show_icons=true&locale=en&layout=compact" alt="asid30" /></p>
