@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asid30" alt="asid30" /></a> </p>
 
-- 🔭 I’m currentIy studying at **Universitas Lampung**
+- 🔭 I’m currently studying at **Universitas Lampung**
 
-- 🌱 I’m currentIy learning **React Native and Flutter**
+- 🌱 I’m currently learning **React Native and Flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
