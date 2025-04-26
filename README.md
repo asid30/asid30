@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdilah Asyidiqi</h1>
-<h3 align="center">Just doing my code work 👨‍💻</h3>
+<h3 align="center">Just doing my [code] work 👨‍💻</h3>
 
 <!--
 <p align="left">
