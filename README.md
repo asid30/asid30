@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asid30" alt="asid30" /></a> </p>
 
-- 🔭 I’m currently studying at **Universitas Lampung**
+- 🔭 I’m currently studying at **Lampung University as Computer Science Student**
 
 - 🌱 I’m currently learning **React Native and Flutter**
 
