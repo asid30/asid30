@@ -15,7 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdilah-asyidiqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdilah-asyidiqi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdilah-asyidiqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-abdilah-asyidiqi" height="30" width="40" /></a>
+<a href="https://www.instagram.com/siidd_q/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuH7c5cLpGehi0b4iQk90fXUzC9p7Ebla13w&s" alt="ig-abdilah-asyidiqi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
